@@ -5,6 +5,7 @@ Done by:
 2) Linoy Palas 
 3) Gil Zada 
 4) Omer Liberman 
+
 from the Hebrew University.
 
 Github link to source code - https://github.com/OmerLiberman/Intro-to-AI---Final-Project---Bidding-Strategies
