@@ -4,7 +4,7 @@ Main.py
 In this file we can control the entire situation.
 Means that here we run the entire program, change constants, etc.
 
-Written by:
+Written by: Omer Liberman (July 20th).
 """
 
 import os
